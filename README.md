@@ -13,7 +13,7 @@
 <br> 🌱 **DEVELOPMENT STACK**<br>
       i. Mobile application development: - wechat miniprogram, H5, app.              
      ii. Web Development: - HTML, CSS, JavaScript, Vue               
-     ii. Backend Development: - Nodejs, Python, golang, lua            
+     ii. Backend Development: - Nodejs, Python, Java Springboot, golang gin, lua            
     iii. Shell Scripting: - Bash programming.    
      iv. Databases: - MySQL, mongoDB.            
       v. Operating Systems:- Mac OS, Linux.             
