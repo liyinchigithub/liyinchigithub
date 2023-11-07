@@ -11,9 +11,9 @@
 | 7 |[Navigation](https://github.com/Musule/Navigation) |![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |Company internal web site navigation| ![](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) | ![](https://img.shields.io/github/stars/Musule/Navigation)  
 
 <br> 🌱 **DEVELOPMENT STACK**<br>
-      i. Mobile application development: - wechat miniprogram, H5, app.              
+      i. Mobile application development: - miniprogram, H5, app for Android.              
      ii. Web Development: - HTML, CSS, JavaScript, Vue               
-     ii. Backend Development: - Nodejs, Python, Java Springboot, golang gin, lua            
+     ii. Backend Development: - Nodejs, Python, Java Springboot, golang gin, C# ,lua            
     iii. Shell Scripting: - Bash programming.    
      iv. Databases: - MySQL, mongoDB.            
       v. Operating Systems:- Mac OS, Linux.             
