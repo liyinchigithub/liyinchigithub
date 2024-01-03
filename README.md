@@ -13,7 +13,7 @@
 <br> 🌱 **DEVELOPMENT STACK**<br>
       i. Mobile application development: - miniprogram, H5, app for Android.              
      ii. Web Development: - HTML, CSS, JavaScript, Vue               
-     ii. Backend Development: - Nodejs, Python, Java Springboot, golang gin, C# ,lua            
+     ii. Backend Development: - Java Springboot,Nodejs, Python, golang gin, C# ,lua            
     iii. Shell Scripting: - Bash programming.    
      iv. Databases: - MySQL, mongoDB.            
       v. Operating Systems:- Mac OS, Linux.             
