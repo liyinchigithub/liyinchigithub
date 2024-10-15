@@ -12,7 +12,7 @@
 | 8 |[company_official_website_fe](https://github.com/liyinchigithub/company_official_website_fe) |![](https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=springboot&logoColor=black) |Company official web site| ![](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=springboot&logoColor=white) |![](https://img.shields.io/github/stars/liyinchigithub/company_official_website_fe)  
 
 <br> 🌱 **DEVELOPMENT STACK**<br>
-      i. Mobile application development: - miniprogram, H5, app for Android.              
+      i. Mobile application development: - H5、 App for Android、Flutter、 weChat miniprogram.              
      ii. Web Development: - HTML, CSS, JavaScript, Vue               
      ii. Backend Development: - Java Springboot、Nodejs、Python、golang gin、C#、C++、lua            
     iii. Shell Scripting: - Bash programming.    
